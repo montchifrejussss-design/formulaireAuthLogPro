@@ -11,7 +11,7 @@
   --white: #FFFFFF;
   --transition-smooth: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
   --shadow-glow: rgba(0, 230, 63, 0.25);
-  --bg-image: url('/images4.jpg');  /* Image locale à la racine */
+  --bg-image: url('images4.jpg');  /* Image locale à la racine */
 }
 @media (prefers-color-scheme: dark) {
   :root {
