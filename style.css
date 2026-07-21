@@ -19,7 +19,7 @@
     --text-color: #F9FAFB;       
     --text-muted: #9CA3AF;
     --border-color: rgba(31, 41, 55, 0.7);     
-    --bg-image: url('/images4.jpg');  /* Même image locale pour le mode sombre */
+    --bg-image: url('images4.jpg');  /* Même image locale pour le mode sombre */
   }
 }
 /* 2. Reset et styles généraux */
